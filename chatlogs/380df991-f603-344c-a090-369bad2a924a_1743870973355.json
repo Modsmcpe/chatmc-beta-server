@@ -1,0 +1,22 @@
+[
+  {
+    "role": "user",
+    "content": "save this location as tree"
+  },
+  {
+    "role": "assistant",
+    "content": "I've got your location saved. You're currently standing in a forest biome at coordinates (-133, 75, -58) in the overworld."
+  },
+  {
+    "role": "system",
+    "content": "Location saved as 'tree' at [X: -133, Y: 75, Z: -58]"
+  },
+  {
+    "role": "user",
+    "content": "thanks"
+  },
+  {
+    "role": "assistant",
+    "content": "You're welcome, Dev. Is there anything else I can help you with in the overworld?"
+  }
+]
