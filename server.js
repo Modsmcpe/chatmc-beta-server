@@ -22,7 +22,7 @@ app.post('/api/chatlog', (req, res) => {
 });
 
 app.get('/api/latestversion', (req, res) => {
-    res.json({ stableVersion: "1.20-stable" });
+    res.json({ stableVersion: "2.5-beta" });
 });
 
 const PORT = process.env.PORT || 8080;
