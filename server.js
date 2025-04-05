@@ -62,7 +62,7 @@ app.post('/api/chatlog', async (req, res) => {
 
 // Version check
 app.get('/api/latestversion', (req, res) => {
-    res.json({ stableVersion: "1.20-stable" });
+    res.json({ stableVersion: "2.5-beta" });
 });
 
 // List logs (local only)
