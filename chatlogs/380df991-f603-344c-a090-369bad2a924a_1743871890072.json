@@ -1,0 +1,22 @@
+[
+  {
+    "role": "user",
+    "content": "hey"
+  },
+  {
+    "role": "assistant",
+    "content": "Hello Dev, how can I help you today?"
+  },
+  {
+    "role": "user",
+    "content": "save this location as plains"
+  },
+  {
+    "role": "assistant",
+    "content": "Location saved as plains."
+  },
+  {
+    "role": "system",
+    "content": "Location saved as 'plains' at [X: 357, Y: 66, Z: 527]"
+  }
+]
