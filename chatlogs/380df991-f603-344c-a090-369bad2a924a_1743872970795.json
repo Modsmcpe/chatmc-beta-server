@@ -1,0 +1,50 @@
+[
+  {
+    "role": "user",
+    "content": "hey"
+  },
+  {
+    "role": "assistant",
+    "content": "Hello Dev, what's up in the snowy plains?"
+  },
+  {
+    "role": "user",
+    "content": "tell a joke"
+  },
+  {
+    "role": "assistant",
+    "content": "Why did the creeper go to the party? Because it was a blast."
+  },
+  {
+    "role": "user",
+    "content": "another"
+  },
+  {
+    "role": "assistant",
+    "content": "Why did the skeleton refuse to go to the party? Because he had no body to go with."
+  },
+  {
+    "role": "user",
+    "content": "save this location as iceage"
+  },
+  {
+    "role": "assistant",
+    "content": "Location saved as 'iceage'. You're currently at X: 17, Y: 115, Z: -36 in the snowy plains."
+  },
+  {
+    "role": "system",
+    "content": "Location saved as 'iceage' at [X: 17, Y: 115, Z: -36]"
+  },
+  {
+    "role": "user",
+    "content": "thank you"
+  },
+  {
+    "role": "assistant",
+    "content": "You're welcome, Dev. Is there anything else I can help you with in the snowy plains?"
+  },
+  {
+    "role": "system",
+    "content": "Location saved as 'iceage' at [X: 33, Y: 125, Z: -61]"
+  }
+]
