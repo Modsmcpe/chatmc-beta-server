@@ -1,0 +1,14 @@
+[
+  {
+    "role": "user",
+    "content": "save this place as river"
+  },
+  {
+    "role": "assistant",
+    "content": "I'd be happy to help you save this location. This spot in the birch forest will be saved as \"river\" for you."
+  },
+  {
+    "role": "system",
+    "content": "Location saved as 'river' at [X: 12, Y: 96, Z: 20]"
+  }
+]
