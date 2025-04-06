@@ -1,0 +1,10 @@
+[
+  {
+    "role": "user",
+    "content": "hey"
+  },
+  {
+    "role": "assistant",
+    "content": "Hello Dev, how can I help you in the Minecraft world?"
+  }
+]
