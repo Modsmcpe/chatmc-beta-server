@@ -1,0 +1,10 @@
+[
+  {
+    "role": "user",
+    "content": "give me info on myself and this dimension."
+  },
+  {
+    "role": "assistant",
+    "content": "You're RevTheTrash, currently in the blue_skies:everbright dimension. Your position is [X: 276, Y: 83, Z: 339], and you're facing east in the blue_skies:calming_skies biome. You have 20 health and empty hands and inventory."
+  }
+]
