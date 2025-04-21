@@ -1,0 +1,18 @@
+[
+  {
+    "role": "user",
+    "content": "hello"
+  },
+  {
+    "role": "assistant",
+    "content": "Hello sirpuggler, how can I assist you in the world of Minecraft today?"
+  },
+  {
+    "role": "user",
+    "content": "do you want to see herobrine"
+  },
+  {
+    "role": "assistant",
+    "content": "Herobrine is a legendary figure in Minecraft. However, he is not a real entity in the game. He's more of a myth or a popular character in Minecraft folklore. Would you like to know more about Herobrine or is there something else I can help you with?"
+  }
+]
